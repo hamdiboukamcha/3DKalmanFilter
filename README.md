@@ -10,6 +10,7 @@ This repository contains a C++ implementation of a 3D Kalman Filter. The Kalman 
 - Simple and customizable
 
 ## Project Structure
+<!-- Project Directory Structure -->
 /your_project_directory
 │
 ├── src
@@ -19,6 +20,8 @@ This repository contains a C++ implementation of a 3D Kalman Filter. The Kalman 
 │
 ├── CMakeLists.txt
 └── README.md
+<!-- End of Project Directory Structure -->
+
 
 ## Getting Started
 
