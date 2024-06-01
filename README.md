@@ -74,7 +74,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 
 ## Contact
-For any questions or inquiries, please contact us.
+For any questions or inquiries, please contact us: [HAMDI BOUKAMCHA](https://www.linkedin.com/in/hamdi-boukamcha-437830146/)
+
 
 BY: HAMDI BOUKAMCHA
 
