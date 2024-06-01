@@ -2,7 +2,7 @@
 
 This repository contains a C++ implementation of a 3D Kalman Filter. The Kalman Filter is an algorithm used to estimate the state of a system from a series of noisy measurements. This implementation is self-contained, with matrix operations handled manually without relying on external libraries such as Eigen.
 
-## Features
+## 🔥 Features
 
 - State estimation for a 3D system
 - Manual implementation of matrix operations
