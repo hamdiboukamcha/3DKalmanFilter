@@ -11,7 +11,6 @@ This repository contains a C++ implementation of a 3D Kalman Filter. The Kalman 
 
 ## Project Structure
 <!-- Project Directory Structure -->
-/your_project_directory
 │
 ├── src
 │ ├── main.cpp
