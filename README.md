@@ -52,8 +52,8 @@ This repository contains a C++ implementation of a 3D Kalman Filter. The Kalman 
    cmake --build .
 
 ## Code Overview
-**KalmanFilter3D Class**
-The KalmanFilter3D class encapsulates the state estimation logic. It includes methods for prediction and update steps, as well as utility functions for matrix operations.
+**Kalman Filter 3D Class**
+The Kalman Filter 3D class encapsulates the state estimation logic. It includes methods for prediction and update steps, as well as utility functions for matrix operations.
 
 **predict():** Performs the prediction step, updating the state estimate and covariance matrix based on the process model.
 
@@ -62,11 +62,11 @@ The KalmanFilter3D class encapsulates the state estimation logic. It includes me
 **getState(double state[6]) const**: Retrieves the current state estimate.
 
 **main.cpp**
-The main.cpp file demonstrates how to use the KalmanFilter3D class. It initializes the filter, performs a prediction-update cycle with a sample measurement, and prints the estimated state.
+The main.cpp file demonstrates how to use the Kalman Filter 3D class. It initializes the filter, performs a prediction-update cycle with a sample measurement, and prints the estimated state.
 
 
 **CMakeLists.txt**
-The CMakeLists.txt file defines the build configuration for the project. It specifies the project name, required C++ standard, source files, and include directories.
+The CMakeLists.txt file defines the build configuration for the 3D Kalman Filter . It specifies the project name, required C++ standard, source files, and include directories.
 
 
 ## Contributing
